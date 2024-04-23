@@ -2721,7 +2721,7 @@
   top: calc(50% - 12px);
   right: 4px;
   position: absolute;
-  content: url(../img/block-item/button-icon-arrow.svg);
+  content: url(../img/block-item/button-icon-arrow.webp);
 }
 
 .button-link a {
